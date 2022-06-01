@@ -3,7 +3,7 @@
 I'm a **Backend Developer**
 
 Right now enjoying: 
-- ~PHP Core & Laravel Framework~
+- PHP Core & Laravel Framework
 - Node.JS
 - Python
 
