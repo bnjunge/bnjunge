@@ -2,7 +2,7 @@
 
 I'm a **Backend Developer**
 
-Right now enjoying: 
+Right now enjoy working with 
 - PHP Core & Laravel Framework
 - Node.JS
 - Python
