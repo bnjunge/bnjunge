@@ -13,6 +13,7 @@ Currently Learning a few Frontend dev, particularly
 
 And Some Hybrid Mobile App Development Using
 - Ionic Framework
+- React Native
 
 Am also a big fan of AI & Machine Learning, I guess that will be my final landing point. To comeup/work in an
 awesome project that will help people, the best way possible using AI.
