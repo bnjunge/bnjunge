@@ -12,13 +12,16 @@ Currently Learning a few Frontend dev, particularly
 - Tailwind CSS
 
 And Some Hybrid Mobile App Development Using
-- Ionic Framework
 - React Native
+- ~Ionic Framework~
 
-Am also a big fan of AI & Machine Learning, I guess that will be my final landing point. To comeup/work in an
-awesome project that will help people, the best way possible using AI.
+Currently working at Surv Technologies as a Backend Dev where we model cutting-edge financial technology solutions for small and medium businesses specifically in  Rural Internet Connectivity(RICs), Loans and the Informal Banking Sector(LIBSes). We also offer Web Hosting solutions and VPS servers in conjunction with our partners from the US and EU. Hit me up if you want to know more.
 
-You can check my YouTube Channel here [Here](https://youtube.com/c/survtech) or follow me on Bird App [Here](https://twitter.com/njungejnr)
+If am not coding, am either playing with my kid, trying something new or reading a book(Currently reading *[Atomic Habits](https://jamesclear.com/atomic-habits)*). I also love teaching/coaching, so you may find me also on online meetups explaining something to someone, or am listening to someone teaching something.
+
+I am an open book, no new version of me, just an improved one everyday.
+
+Support me on my YouTube Channel here [Here](https://youtube.com/c/survtech) or follow me on Bird App [Here](https://twitter.com/njungejnr)
 <!-- dev -->
 <!-- devend -->
 
