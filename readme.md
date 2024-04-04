@@ -17,12 +17,12 @@ And Some Hybrid Mobile App Development Using
 - ~Ionic Framework~
 
 My works have been:
-[Mikrotik CRM - A WiSP Billing System](https://mikrotikcrm.com)
-[Payment Ochestration Platform](https://mpaas.co.ke)
-[Text Pulse - A next generation SMS Platform](https://textpulse.co.ke)
-[Savanna Cloud Africa - Developed the billing system for Proxmox VE Manager](https://savannacloud.africa)
-... (NDA protected projects)
-... Countless payment integration projects, consultations.
+- [Mikrotik CRM - A WiSP Billing System](https://mikrotikcrm.com)
+- [Payment Ochestration Platform](https://mpaas.co.ke)
+- [Text Pulse - A next generation SMS Platform](https://textpulse.co.ke)
+- [Savanna Cloud Africa - Developed the billing system for Proxmox VE Manager](https://savannacloud.africa)
+- ... (NDA protected projects)
+- ... Countless payment integration projects, consultations.
 
 
 Currently working at my own farm, EZ Farms and am using this opportunity to learn as much as I
