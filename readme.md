@@ -1,3 +1,4 @@
+<!-- dev -->
 ### Hi there 👋
 
 I'm a **Backend Developer**
@@ -15,14 +16,20 @@ And Some Hybrid Mobile App Development Using
 - React Native
 - ~Ionic Framework~
 
-Currently working at Surv Technologies as a Backend Dev where we model cutting-edge financial technology solutions for small and medium businesses specifically in  Rural Internet Connectivity(RICs), Loans and the Informal Banking Sector(LIBSes). We also offer Web Hosting solutions and VPS servers in conjunction with our partners from the US and EU. Hit me up if you want to know more.
+My works have been:
+[Mikrotik CRM - A WiSP Billing System](https://mikrotikcrm.com)
+[Payment Ochestration Platform](https://mpaas.co.ke)
+[Text Pulse - A next generation SMS Platform](https://textpulse.co.ke)
+[Savanna Cloud Africa - Developed the billing system for Proxmox VE Manager](https://savannacloud.africa)
+... (NDA protected projects)
+... Countless payment integration projects, consultations.
 
-If am not coding, am either playing with my kid, trying something new or reading a book(Currently reading *[Decolonising The Mind - Ngugi wa Thiongo](https://www.uibk.ac.at/anglistik/staff/davis/decolonising-the-mind.pdf)*). I also love teaching/coaching, so you may find me also on online meetups explaining something to someone, or am listening to someone teaching something.
 
-I am an open book, no new version of me, just an improved one everyday.
+Currently working at my own farm, EZ Farms and am using this opportunity to learn as much as I
+can to be able to produce safe, organic traditional African vegetables, and also see how i can use tech to improve the yields.
 
-Support me on my YouTube Channel here [Here](https://youtube.com/c/survtech) or follow me on Bird App [Here](https://twitter.com/njungejnr)
-<!-- dev -->
+Support me on my YouTube Channel here [Here](https://youtube.com/c/survtech)
+
 <!-- devend -->
 
 
